@@ -1,3 +1,4 @@
+### It is a discord bot build with nodejs and discord.js
 ### 1. Create a Discord Application & Bot
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications).
 2. Click **New Application** → give it a name.
